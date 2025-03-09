@@ -1,5 +1,5 @@
 # Estudos Tecnicas Programacao
-Aqui estarão todos os meus estudos e exercicios da aula de Técnica de Programação
+Aqui estarão todos os meus estudos e exercicios da aula de Técnica de Programação\n
 Aula dada por Fretz Junior na Fatec Itaquera
 
 ## Branch Aula
